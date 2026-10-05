@@ -1,2 +1,4 @@
 # rogue-of-stephen
-Stephen is a gay
+A roguelike game powered by Godot engine.
+
+一个由Godot引擎制作的肉鸽游戏。

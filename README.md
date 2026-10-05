@@ -1,2 +1,2 @@
-# rouge-of-stephen
-A rougelike game
+# rogue-of-stephen
+Stephen is a gay

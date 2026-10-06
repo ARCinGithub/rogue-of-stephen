@@ -1,0 +1,17 @@
+                     delete_gen_dir:   0 ms
+                   deserialize_json: 107 ms
+                      build_context:  33 ms
+                  map_domain_models:  61 ms
+              generate_central_file:   1 ms
+      generate_builtin_methods_file:   9 ms
+    generate_builtin_lifecycle_file:   4 ms
+         generate_classes_core_file:   2 ms
+      generate_classes_servers_file:  11 ms
+        generate_classes_scene_file: 106 ms
+       generate_classes_editor_file:   4 ms
+            generate_utilities_file:   1 ms
+                   load_header_json:   2 ms
+generate_gdextension_interface_file:  10 ms
+               generate_module_file:   0 ms
+-------------------------------------------
+                              total: 358 ms

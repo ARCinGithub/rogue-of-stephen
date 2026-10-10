@@ -8,5 +8,7 @@
 position = Vector2(574, 324)
 texture = ExtResource("1_lopft")
 
+[node name="InputManager" type="InputManager" parent="Player" unique_id=1259071096]
+
 [node name="Camera2D" type="Camera2D" parent="." unique_id=1267220556]
 position = Vector2(574, 322)
